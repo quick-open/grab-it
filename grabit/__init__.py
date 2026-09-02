@@ -35,7 +35,7 @@ from .extract import (
     urls_from_text,
 )
 
-__version__ = "1.0.6"
+__version__ = "1.0.7"
 
 __all__ = [
     "GrabItError",
